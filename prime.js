@@ -5,9 +5,9 @@
       count++;
     }
   }
-  if (count >= 2) {                          //error
-    console.log('it is not a prime number');
+  if (count == 2) {                          //resolved
+    console.log('it is  a prime number');
   } else {
-    print('it is a prime number');          //error
+    print('it is not a prime number');          //resolved
   }
 }
