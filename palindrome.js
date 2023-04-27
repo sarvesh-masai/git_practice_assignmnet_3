@@ -8,4 +8,4 @@ console.log(empty)
   console.log("Palindrome");
  }else{
  console.log("Not")
- }
+ 
